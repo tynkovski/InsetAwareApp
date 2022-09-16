@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="hello">Hello</string>
+    <string name="home">Home</string>
+    <string name="go_settings">Go settings</string>
+    <string name="settings">Settings</string>
+</resources>
